@@ -1,7 +1,6 @@
 flowMeta:
   name: 入境 · Immera
   description: |
-    这是给用户（客户/合作方）的一段简洁介绍，可直接使用：
 
     ---
 
